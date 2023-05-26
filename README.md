@@ -1,2 +1,4 @@
 # Deep_learning_project_mnist
 Deep learning using Keras
+
+This Deep_learning_project_mnist repository showcases my implementation of a deep learning project using the R language. The focus of this project is on the popular MNIST dataset, which consists of handwritten digits. Leveraging the power of deep learning algorithms, I have developed a model that aims to accurately classify these digits. By utilizing frameworks such as TensorFlow and Keras, I have created a robust neural network architecture capable of efficiently learning and recognizing patterns within the dataset. Through extensive experimentation and fine-tuning, I have achieved impressive results, demonstrating the effectiveness of deep learning in tackling complex image recognition tasks. This project serves as a testament to the capabilities of the R language in the field of deep learning, showcasing my skills and expertise in implementing advanced machine learning models.
